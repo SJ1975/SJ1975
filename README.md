@@ -5,7 +5,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" /> Hello, 👋 I'm Sanjeev
 ---
 ### About Me:
-- 🔭 I’m currently working on Cab Aggregators using Spring Boot
 - 🌱 I’m currently learning Full Stack Development
 - 💻 I use daily: **.java**, **.sql**
 
