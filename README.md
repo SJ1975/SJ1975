@@ -1,9 +1,6 @@
 <!--
 **SJ1975/SJ1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" />
----
 # Hi, I'm Sanjeev 👋
 
 **Software Engineer | Backend Developer | Java • Spring Boot • PostgreSQL**
