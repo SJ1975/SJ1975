@@ -2,49 +2,32 @@
 **SJ1975/SJ1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" /> Hello, 👋 I'm Sanjeev
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" />
 ---
-### About Me:
-- 🌱 I’m currently learning Full Stack Development
-- 💻 I use daily: **.java**, **.sql**
+# Hi, I'm Sanjeev 👋
 
-### ⚡ Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+**Software Engineer | Backend Developer | Java • Spring Boot • PostgreSQL**
+Based in Mumbai. B.E. Computer Engineering, University of Mumbai (2024).
 
-<br/>
+I build REST APIs and event-driven backend systems, and I'm working toward my first open-source contributions in the Java/Spring ecosystem.
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjeevk1964/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sanjeevksharma495@gmail.com)
+## 🛠 Tech Stack
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,kafka,elasticsearch,docker,python,git,idea,postman" />
+</p>
 
-<!-- ### 📊 GitHub Stats -->
-#### :octocat: GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SJ1975&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=SJ1975&theme=shadow_blue&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ1975&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [real-time-compliance-monitor](https://github.com/SJ1975/real-time-compliance-monitor) | Real-time compliance monitoring and risk detection with 15+ REST APIs | Spring Boot, Kafka, Elasticsearch, PostgreSQL, Docker Compose |
+| [bug-tracker](https://github.com/SJ1975/bug-tracker) | Bug tracking system with a desktop UI | Spring Boot, JavaFX, MySQL, JUnit |
+| [sortsphere](https://github.com/SJ1975/sortsphere) | Sorting algorithm visualizer | React, Node.js, MongoDB |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌱 Currently
+- Polishing my projects with CI and documentation
+- Making my first open-source contributions (Java/Spring)
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SJ1975&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=SJ1975&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/sanjeevk1964) • sanjeevksharma495@gmail.com
