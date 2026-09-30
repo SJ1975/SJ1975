@@ -19,8 +19,8 @@ I build REST APIs and event-driven backend systems, and I'm working toward my fi
 | Project | What it does | Stack |
 |---|---|---|
 | [real-time-compliance-monitor](https://github.com/SJ1975/real-time-compliance-monitor) | Real-time compliance monitoring and risk detection with 15+ REST APIs | Spring Boot, Kafka, Elasticsearch, PostgreSQL, Docker Compose |
-| [bug-tracker](https://github.com/SJ1975/bug-tracker) | Bug tracking system with a desktop UI | Spring Boot, JavaFX, MySQL, JUnit |
 | [sortsphere](https://github.com/SJ1975/sortsphere) | Sorting algorithm visualizer | React, Node.js, MongoDB |
+| [bug-tracker](https://github.com/SJ1975/bug-tracker) | Bug tracking system with a desktop UI | Spring Boot, JavaFX, MySQL, JUnit |
 
 ## 🌱 Currently
 - Polishing my projects with CI and documentation
