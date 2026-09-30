@@ -9,9 +9,21 @@ Based in Mumbai. B.E. Computer Engineering, University of Mumbai (2024).
 I build REST APIs and event-driven backend systems, and I'm working toward my first open-source contributions in the Java/Spring ecosystem.
 
 ## 🛠 Tech Stack
+<sub>Click any icon to open its official documentation.</sub>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,kafka,elasticsearch,docker,python,git,idea,postman" />
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://docs.spring.io/spring-boot/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a>
+  <a href="https://maven.apache.org/guides/"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" /></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://kafka.apache.org/documentation/"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /></a>
+  <a href="https://www.elastic.co/docs"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" /></a>
+  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.jetbrains.com/help/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
+  <a href="https://learning.postman.com/docs/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
 </p>
 
 ## 🚀 Featured Projects
