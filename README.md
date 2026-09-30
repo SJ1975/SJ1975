@@ -41,7 +41,7 @@ I build REST APIs and event-driven backend systems, and I'm working toward my fi
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/sanjeevk1964) • sanjeevksharma495@gmail.com
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
