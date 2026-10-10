@@ -4,6 +4,7 @@
 # Hi, I'm Sanjeev 👋
 
 **Software Engineer | Backend Developer | Java • Spring Boot • PostgreSQL**
+
 Based in Mumbai. B.E. Computer Engineering, University of Mumbai (2024).
 
 I build REST APIs and event-driven backend systems, and I'm working toward my first open-source contributions in the Java/Spring ecosystem.
